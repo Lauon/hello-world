@@ -1,10 +1,7 @@
 # hello-world
 This is a markdown file created by Zheng Luo on Apr. 26, 2020
 
-it's just an introduction to Github
-
-following： some trials about the markdown:
-
+it's just an introduction to Github, following： some trials about the markdown:
 ##subtitle
 ###subsubtitle
 |column 1 |column 2|column 3|
@@ -24,6 +21,7 @@ $$\int \cos x \mathop{\mathrm{d}}x = \sin x$$
 ----
 
 > this is the symbol for citation
+
 > the second line for citation
 
 \# single-line codes
