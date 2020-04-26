@@ -25,12 +25,17 @@ $\sin \pi = 0$
 > this is the symbol for citation
 > the second line for citation
 
-'print()' \# single-line codes
+\# single-line codes
+**Warning**: \` is not ' (just above '"Tab")
 
-'''python
+`print()`
+
+Multiple lines codes:
+
+```python
 text = ['Alice', ‘Bob’, 'Cindy']
 for x in len(text):
   print(text[x])
 print(text)
-'''
+```
 
