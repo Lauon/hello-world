@@ -17,6 +17,7 @@ following： some trials about the markdown:
 
 math part?
 $\sin \pi = 0$
+$$\int \cos x \mathop{\mathrm{d}}x = \sin x$$
 
 \# need Chrome extension: Mathjax to show math symbols
 
@@ -34,7 +35,7 @@ Multiple lines codes:
 
 ```python
 text = ['Alice', ‘Bob’, 'Cindy']
-for x in len(text):
+for x in range(len(text)):
   print(text[x])
 print(text)
 ```
