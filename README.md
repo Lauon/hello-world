@@ -17,3 +17,20 @@ following： some trials about the markdown:
 
 math part?
 $\sin \pi = 0$
+
+\# need Chrome extension: Mathjax to show math symbols
+
+----
+
+> this is the symbol for citation
+> the second line for citation
+
+'print()' \# single-line codes
+
+'''python
+text = ['Alice', ‘Bob’, 'Cindy']
+for x in len(text):
+  print(text[x])
+print(text)
+'''
+
